@@ -3,7 +3,7 @@ body {
   background-repeat: repeat;
 }
 .Main {
-  border: 5px outset red;
-  background-color: lightblue;    
+  border: 2px outset rgba(100, 100, 100, 0.5);
+  background-color: rgba(150, 150, 150, 0.5);  
   text-align: center;
 }
