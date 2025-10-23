@@ -2,3 +2,8 @@ body {
   background-image: url("/assets/backgrounds/tiling/Texture_wood_017.jpg");
   background-repeat: repeat;
 }
+.Main {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
